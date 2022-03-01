@@ -1,0 +1,5 @@
+rootProject.name = 'JavaCoreDz4_task2'
+include 'db'
+include 'api'
+include 'service'
+
